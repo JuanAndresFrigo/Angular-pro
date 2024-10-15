@@ -60,7 +60,7 @@ export class CalculatorService {
     }
 
     if (this.resultText().length >= 10) {
-      console.log('Max lenght reached');
+      // console.log('Max lenght reached');
       return;
     }
 
